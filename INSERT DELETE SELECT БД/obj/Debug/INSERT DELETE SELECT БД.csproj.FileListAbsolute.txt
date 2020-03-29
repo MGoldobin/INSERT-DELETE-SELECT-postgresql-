@@ -1,0 +1,15 @@
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\INSERT DELETE SELECT БД.exe.config
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\INSERT DELETE SELECT БД.exe
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\INSERT DELETE SELECT БД.pdb
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT DELETE SELECT БД.csprojResolveAssemblyReference.cache
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT_DELETE_SELECT_БД.Form1.resources
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT_DELETE_SELECT_БД.Properties.Resources.resources
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT DELETE SELECT БД.csproj.GenerateResource.Cache
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT DELETE SELECT БД.exe
+c:\users\миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT DELETE SELECT БД.pdb
+C:\Users\Миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT_DELETE_SELECT_БД.Form2.resources
+C:\Users\Миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\Npgsql.dll
+C:\Users\Миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\Npgsql.xml
+C:\Users\Миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Миша\documents\visual studio 2015\Projects\INSERT DELETE SELECT БД\obj\Debug\INSERT_DELETE_SELECT_БД.Form3.resources
